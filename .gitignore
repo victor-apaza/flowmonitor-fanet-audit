@@ -1,0 +1,10 @@
+# Exclude raw data (too large for GitHub; available on Zenodo)
+data/raw/
+
+# Exclude logs (too large)
+*.log
+*.log.gz
+
+# Exclude temporary files
+*.tmp
+*.swp
