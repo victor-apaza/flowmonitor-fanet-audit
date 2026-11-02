@@ -96,3 +96,10 @@ This repository accompanies a paper currently under review. If you use this repo
 ## License
 
 This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+## Data Availability
+
+The raw simulation data (XML and JSON files) are available on Zenodo:
+[https://doi.org/10.5281/zenodo.23892240](https://doi.org/10.5281/zenodo.23892240)
+
+The analysis scripts and processed results are in this GitHub repository.
